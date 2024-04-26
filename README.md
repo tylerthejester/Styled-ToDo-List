@@ -8,7 +8,7 @@ This is the assignment for the course "Professional Certificate in Coding: Full 
 
 • Put a note under the title to let users know how to remove any item on the list. <br />
 • Changed the remove item style from (-) to [x] to make it more intuitive for users. <br />
-• Made the elements more responsive with the width. <br />
+• Made the elements more responsive with the margin and width. <br />
 • Changed the app background to dark gray
 
 ## How to run
