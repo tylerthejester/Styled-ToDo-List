@@ -13,7 +13,7 @@ This is the assignment for the course "Professional Certificate in Coding: Full 
 
 ## How to run
 
-• For this repo to your GitHub <br />
+• Fork this repo to your GitHub <br />
 • Clone your repo <br />
 • Run your cloned files with any localhost that you set up on your computer
 
